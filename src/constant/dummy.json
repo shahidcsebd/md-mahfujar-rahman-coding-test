@@ -1,0 +1,28 @@
+{
+    "heading" :  "Introduction",
+    "data": [
+        {   
+            "id": "1",
+            "heading": "What is React",
+            "headingTwo": [
+                "Create user interf4",
+                "Create user interf3",
+                "Create user interf2",
+                "Create user interf1"
+            ],
+            "lsikeywords" : []
+        },
+        {   
+            "id": "2",
+            "heading": "Write components",
+            "headingTwo": [
+                "Create user interf1",
+                "Create user interf2",
+                "Create user interf3",
+                "Create user interf4"
+            ],
+            "lsikeywords" : []
+        }
+
+    ]
+}
